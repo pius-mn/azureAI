@@ -20,4 +20,5 @@ variables:
   # For pipeline reference
   resource_group: dafault_resource_group
   aml_workspace: gl-oct-26
+  
 
